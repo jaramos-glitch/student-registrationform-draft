@@ -3,10 +3,9 @@
 <head>
     <title>Lab 20: Student Registration Form</title>
     <style>
-        /* Modern Black & White Theme */
         body {
             font-family: "Segoe UI", Arial, sans-serif;
-            background-color: #000; /* solid black background */
+            background-color: #000;
             margin: 0;
             height: 100vh;
             display: flex;
@@ -16,7 +15,7 @@
         }
 
         .form-section {
-            background: #111; /* deep black card */
+            background: #111; 
             padding: 40px;
             border-radius: 12px;
             box-shadow: 0 8px 25px rgba(255,255,255,0.1);
